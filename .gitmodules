@@ -28,6 +28,3 @@
 [submodule "deps/azure-ctest"]
 	path = deps/azure-ctest
 	url = https://github.com/Azure/azure-ctest.git
-[submodule "c-utility"]
-	path = c-utility
-	url = https://github.com/bo-ms/azure-c-shared-utility-xware.git
